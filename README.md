@@ -2,7 +2,7 @@
   💻<br>Rocket.Q
 </h1>
 
-![Design preview for the Rocket.Q](./images/design-project.png)
+![Design preview for the Rocket.Q](./public/images/design-project.png)
 
 <h4 align="center"><a href="">Clique para visitar o projeto</a></h4>
 
